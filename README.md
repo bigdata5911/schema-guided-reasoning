@@ -135,7 +135,3 @@ Notes:
 - JSON parsing errors: models must return JSON conforming to the schema; reduce temperature or check the output cleaning logic in the llama.cpp variant.
 
 ---
-
-## License
-
-MIT (or your preferred license). Update this section as appropriate.
